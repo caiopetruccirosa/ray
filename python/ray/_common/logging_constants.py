@@ -30,7 +30,6 @@ LOGRECORD_STANDARD_ATTRS = frozenset(
         "stack_info",
         "thread",
         "threadName",
-        "taskName",
     }
 )
 
